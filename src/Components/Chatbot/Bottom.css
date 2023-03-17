@@ -1,0 +1,38 @@
+.bottom{
+    margin: 120px 0 0;
+}
+.bottom .btm{
+    display: flex;
+    align-items: center;
+}
+.bottom .btm .input input{
+    width:400px;
+    height: 58px;
+    padding-left: 36px;
+    outline: none;
+    border: none;
+    background: #EDECED;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.bottom .btm .btn{
+    margin-left: 10px; 
+}
+
+.bottom .btm .btn button{
+    width:100px;
+    height:50px;
+    border:none;
+    outline:none;
+    border-radius: 5px;
+    background: #363062;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 1.1em;;
+}
+.bottom .btm .btn button i{
+    margin-left: 5px;
+    
+}
